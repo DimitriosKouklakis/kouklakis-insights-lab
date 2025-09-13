@@ -1,4 +1,4 @@
-# Kouklakis — Insights Lab
+# Welcome to Kouklakis — Insights Lab!
 
 >I turn messy data into stories people can act on.  
 >Think of this repo as my **BI & Analytics atelier**: blueprints, SQL models, and Tableau designs that turn **KPIs → decisions**.
