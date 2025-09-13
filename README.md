@@ -1,9 +1,29 @@
 # Kouklakis — Insights Lab
 
 I turn messy data into stories people can act on.  
-Think of this repo as my **BI & Analytics atelier**: blueprints, dbt/SQL models, and Tableau designs that turn **KPIs → decisions**.
+Think of this repo as my **BI & Analytics atelier**: blueprints, SQL models, and Tableau designs that turn **KPIs → decisions**.
 
 > 🎨 Data artist with a product mindset — equal parts SQL/Python/Tableau and clarity, coaching, and calm under pressure.
+> **What I love**
+✅ Designing KPIs as a shared language (so Finance, Product & Ops finally agree 😉)
+📊 Building reliable dashboards that execs actually use
+🔁 Moving teams from “ad-hoc” to repeatable: templates, QA gates, RLS, clear SLAs
+
+**How I work**
+🎯 Outcomes > outputs — I start with the decision, not the chart
+🍸Governance with taste: one source of truth, group permissions, clean repo
+🤝 Human first: I coach, unblock, and give people room to grow
+
+**Stack**
+SQL • Python • Tableau • Databricks • JIRA • Confluence
+
+Got a messy dataset, a slippery KPI, or a dashboard no one opens?
+Let’s turn it into something people use. 
+I’m open to smart collabs—audits, exec dashboard makeovers, KPI/glossary tune-ups, data migrations, or quick BI strategy sparring. 
+📩 DM me and let’s make data sing—taking decision-making to the next level and compounding your org’s prosperity.
+
+Still learning every day, still curious. 
+If you like data that changes behavior, let’s connect.
 
 ---
 
