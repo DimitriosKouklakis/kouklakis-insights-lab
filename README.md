@@ -4,7 +4,8 @@ I turn messy data into stories people can act on.
 Think of this repo as my **BI & Analytics atelier**: blueprints, SQL models, and Tableau designs that turn **KPIs → decisions**.
 
 > 🎨 Data artist with a product mindset — equal parts SQL/Python/Tableau and clarity, coaching, and calm under pressure.
-> **What I love**
+
+**What I love**
 ✅ Designing KPIs as a shared language (so Finance, Product & Ops finally agree 😉)
 📊 Building reliable dashboards that execs actually use
 🔁 Moving teams from “ad-hoc” to repeatable: templates, QA gates, RLS, clear SLAs
