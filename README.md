@@ -1,30 +1,31 @@
 # Kouklakis — Insights Lab
 
-I turn messy data into stories people can act on.  
-Think of this repo as my **BI & Analytics atelier**: blueprints, SQL models, and Tableau designs that turn **KPIs → decisions**.
+>I turn messy data into stories people can act on.  
+>Think of this repo as my **BI & Analytics atelier**: blueprints, SQL models, and Tableau designs that turn **KPIs → decisions**.
 
-> 🎨 Data artist with a product mindset — equal parts SQL/Python/Tableau and clarity, coaching, and calm under pressure.
+🎨 Data artist with a product mindset — equal parts SQL/Python/Tableau and clarity, coaching, and calm under pressure.
 
 **What I love**
+
 ✅ Designing KPIs as a shared language (so Finance, Product & Ops finally agree 😉)
 📊 Building reliable dashboards that execs actually use
 🔁 Moving teams from “ad-hoc” to repeatable: templates, QA gates, RLS, clear SLAs
 
 **How I work**
-🎯 Outcomes > outputs — I start with the decision, not the chart
-🍸Governance with taste: one source of truth, group permissions, clean repo
+
+🎯 Outcomes > outputs: I start with the decision, not the chart
+🍸Governance with taste: One source of truth, group permissions, clean repo
 🤝 Human first: I coach, unblock, and give people room to grow
 
-**Stack**
-SQL • Python • Tableau • Databricks • JIRA • Confluence
+>**Stack:**
+Tableau • SQL • Python • Databricks • PostgreSQL • JIRA • Confluence • Figma
 
 Got a messy dataset, a slippery KPI, or a dashboard no one opens?
 Let’s turn it into something people use. 
 I’m open to smart collabs—audits, exec dashboard makeovers, KPI/glossary tune-ups, data migrations, or quick BI strategy sparring. 
-📩 DM me and let’s make data sing—taking decision-making to the next level and compounding your org’s prosperity.
+Contact me today and let’s make your data sing, taking decision-making to the next level and compounding your org’s prosperity.
 
-Still learning every day, still curious. 
-If you like data that changes behavior, let’s connect.
+📩 dim.kouklakis@gmail.com
 
 ---
 
@@ -34,9 +35,6 @@ If you like data that changes behavior, let’s connect.
 - **Dashboard specs**: Executive Pulse, Financial Performance, Acquisition Overview (design, RLS, calc catalog)
 - **Governance**: KPI glossary, QA gates, RLS patterns, naming conventions
 - **Synthetic data**: generators + CSV/Parquet so you can reproduce locally
-
-## Screens (teaser)
-<img src="assets/exec_pulse.png" width="420"> <img src="assets/financial_perf.png" width="420">
 
 ---
 
