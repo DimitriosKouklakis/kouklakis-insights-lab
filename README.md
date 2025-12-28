@@ -12,7 +12,7 @@
 
 **What I love**
 
-+ 📐 Architecting Governance, Analytics Frameworks & decision systems that scale
++ 📐 Architecting Governance, Analytics Frameworks & Decision Systems that scale
 + ✅ Designing KPIs as a shared language (so Finance, Product & Ops finally agree 😉)
 + 📊 Building reliable dashboards that execs actually use
 + 🔁 Moving teams from “ad-hoc” to repeatable: templates, QA gates, RLS, clear SLAs
