@@ -14,7 +14,7 @@
 **How I work**
 
 🎯 Outcomes > outputs: I start with the decision, not the chart
-🍸Governance with taste: One source of truth, group permissions, clean repo
+🍸Governance with taste: One source of truth, RLS, data governance security protocols, group permissions & a clean repo
 🤝 Human first: I coach, unblock, and give people room to grow
 
 >**Stack:**
