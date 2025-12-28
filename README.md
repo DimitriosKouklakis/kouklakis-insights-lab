@@ -1,8 +1,9 @@
 # Welcome to Kouklakis — Insights Lab!
 
 [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/9f871b3e-56bd-46e1-b355-09e16283346f"/>
-](https://www.linkedin.com/in/dimitris-kouklakis/) [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/fb0ea658-f3d3-460f-a0a9-e561f080a123"/>](https://public.tableau.com/app/profile/dimitrios.kouklakis/vizzes) <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/be541097-f0a1-4294-91e6-7aa3830c1661"/>
- dim.kouklakis@gmail.com
+](https://www.linkedin.com/in/dimitris-kouklakis/)\
+[<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/fb0ea658-f3d3-460f-a0a9-e561f080a123"/>](https://public.tableau.com/app/profile/dimitrios.kouklakis/vizzes)\
+<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/be541097-f0a1-4294-91e6-7aa3830c1661"/> dim.kouklakis@gmail.com
 
 >I turn messy data into stories people can act on.  
 >Think of this repo as my **BI & Analytics atelier**: blueprints, SQL models, and Tableau designs that turn **KPIs → decisions**.
