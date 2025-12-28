@@ -7,14 +7,19 @@
 
 **What I love**
 
-✅ Designing KPIs as a shared language (so Finance, Product & Ops finally agree 😉)
-📊 Building reliable dashboards that execs actually use
-🔁 Moving teams from “ad-hoc” to repeatable: templates, QA gates, RLS, clear SLAs
++ ✅ Designing KPIs as a shared language (so Finance, Product & Ops finally agree 😉)
++ 📊 Building reliable dashboards that execs actually use
++ 🔁 Moving teams from “ad-hoc” to repeatable: templates, QA gates, RLS, clear SLAs
 
 **How I work**
 
 + 🎯 Outcomes > outputs: I start with the decision, not the chart 
-+ 🍸Governance with taste: One source of truth, RLS, data governance security protocols, group permissions & a clean repo
++ 🍸Governance with taste:
++   One source of truth
++   RLS
++   Data Governance & Security Protocols
++   Group Permissions
++   Clean repo
 + 🤝 Human first: I coach, unblock, and give people room to grow
 
 >**Stack:**
