@@ -2,7 +2,8 @@
 
 [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/9f871b3e-56bd-46e1-b355-09e16283346f" />
 ](https://www.linkedin.com/in/dimitris-kouklakis/)\
-[<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/fb0ea658-f3d3-460f-a0a9-e561f080a123" />](https://public.tableau.com/app/profile/dimitrios.kouklakis/vizzes)
+[<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/fb0ea658-f3d3-460f-a0a9-e561f080a123" />](https://public.tableau.com/app/profile/dimitrios.kouklakis/vizzes)\
+📩 dim.kouklakis@gmail.com
 
 
 >I turn messy data into stories people can act on.  
@@ -39,23 +40,12 @@ Contact me today and let’s make your data sing, taking decision-making to the 
 
 ---
 
-## What’s inside
-- **Case studies**: Problem → Decision → Approach → Impact → Reusable pattern
-- **Analytics-ready models**: dbt/SQL marts with tests & docs
-- **Dashboard specs**: Executive Pulse, Financial Performance, Acquisition Overview (design, RLS, calc catalog)
-- **Governance**: KPI glossary, QA gates, RLS patterns, naming conventions
-- **Synthetic data**: generators + CSV/Parquet so you can reproduce locally
+## 📌 Featured Projects
 
----
-
-## Quickstart (local)
-```bash
-# 1) spin up Postgres + dbt docs
-docker compose up -d
-
-# 2) seed + build
-make db-seed    # or: psql -f ops/init.sql
-make dbt-build  # dbt build && dbt docs generate
+🔹 **KPI Value Tree – Executive Performance Framework**  
+A strategic KPI framework built in Tableau that decomposes business outcomes into actionable operational drivers.  
+👉 [View Repository](https://github.com/YOUR_USERNAME/kpi-value-tree)  
+👉 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/dimitrios.kouklakis/viz/DriversValueTree/Timeline)
 
 # 3) open docs
 make dbt-docs   # opens dbt lineage/docs in your browser
