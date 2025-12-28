@@ -1,7 +1,7 @@
 # Welcome to Kouklakis — Insights Lab!
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9f871b3e-56bd-46e1-b355-09e16283346f" />
-
+[<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/9f871b3e-56bd-46e1-b355-09e16283346f" />
+](https://www.linkedin.com/in/dimitris-kouklakis/)
 
 >I turn messy data into stories people can act on.  
 >Think of this repo as my **BI & Analytics atelier**: blueprints, SQL models, and Tableau designs that turn **KPIs → decisions**.
