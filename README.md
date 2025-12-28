@@ -1,5 +1,8 @@
 # Welcome to Kouklakis — Insights Lab!
 
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/9f871b3e-56bd-46e1-b355-09e16283346f" />
+
+
 >I turn messy data into stories people can act on.  
 >Think of this repo as my **BI & Analytics atelier**: blueprints, SQL models, and Tableau designs that turn **KPIs → decisions**.
 
@@ -13,14 +16,14 @@
 
 **How I work**
 
-+ 🎯 Outcomes > outputs: I start with the decision, not the chart 
-+ 🍸Governance with taste:
++ **🎯 Outcomes > outputs**: I start with the decision, not the chart
++ **🍸 Governance with taste:**
 + - One source of truth
 + - RLS
 + - Data Governance & Security Protocols
 + - Group Permissions
 + - Clean Reporting Repo
-+ 🤝 Human first: I coach, unblock, and give people room to grow
++ **🤝 Human first**: I coach, unblock, and give people room to grow, building elite professional squads
 
 >**Stack:**
 Tableau • SQL • Python • Databricks • PostgreSQL • JIRA • Confluence • Figma
