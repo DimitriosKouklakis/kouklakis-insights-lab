@@ -15,11 +15,11 @@
 
 + 🎯 Outcomes > outputs: I start with the decision, not the chart 
 + 🍸Governance with taste:
-+   One source of truth
-+   RLS
-+   Data Governance & Security Protocols
-+   Group Permissions
-+   Clean repo
++     One source of truth
++     RLS
++     Data Governance & Security Protocols
++     Group Permissions
++     Clean repo
 + 🤝 Human first: I coach, unblock, and give people room to grow
 
 >**Stack:**
