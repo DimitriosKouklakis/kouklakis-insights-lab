@@ -48,6 +48,6 @@ A strategic KPI framework built in Tableau that decomposes business outcomes int
 👉 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/dimitrios.kouklakis/viz/DriversValueTree/Timeline)
 
 🔹 **CO₂ Emissions & Policy Impact Analysis**
-👉 [View Repository](https://github.com/DimitriosKouklakis/Drivers_Value_Tree)\
+👉 [View Repository]([https://github.com/DimitriosKouklakis/Drivers_Value_Tree](https://github.com/DimitriosKouklakis/CO2-Policy-Impact-of-Sustainable-Energy)\
 👉 Dashboard on Tableau Public in development
 
